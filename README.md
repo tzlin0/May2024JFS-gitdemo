@@ -5,4 +5,4 @@
 	* On the `README.md`, add your name and mention one thing about yourself.  
 	* Merge your branch into the main branch. Solve conflict by yourself if have any.
 
-Kevin: Hello hello.
+Kevin: Hello hello. This is Kevin
