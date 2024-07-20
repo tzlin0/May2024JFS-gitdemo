@@ -7,3 +7,4 @@
 
 Kevin: Hello hello. This is Kevin
 Zerek: Hello, This is Zerek
+Sam: Hi, This is Sam. I like music. 
