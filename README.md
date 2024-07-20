@@ -6,3 +6,4 @@
 	* Merge your branch into the main branch. Solve conflict by yourself if have any.
 
 Kevin: Hello hello. This is Kevin
+Sam: Hi, This is Sam. I like music. 
